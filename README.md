@@ -1,3 +1,5 @@
+<img src="wtmsb.gif" width="720" />
+
 <img src="rickroll.gif" width="720" />
 
 <img src="jojo.gif" width="720" />
